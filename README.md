@@ -13,6 +13,11 @@ Full Stack Web App que permite la comparación de ventas de un equipo a través 
     • Microframework Flask.
     • MySQL Database.
     
+    email : samajoel@icloud.com
+    password : 123456789
+    
+    # Usuario principal para prueba
+    
 OBS : La base de datos para correr la app esta en la carpeta principal.
     
 [EN]   
@@ -25,5 +30,10 @@ Full Stack Web App that allows the comparison of sales of a team through graphs.
     • Back-End  Python.
     • Microframework flask.
     • MySQL database.
+    
+    email : samajoel@icloud.com
+    password : 123456789
+    
+    # Main user for test
         
 OBS: The database to run the app is in the main folder.
